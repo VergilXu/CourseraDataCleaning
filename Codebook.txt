@@ -60,7 +60,7 @@ The data meet the standard of tidy data:
 ============================================================================
 ***Study Design:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-***Data source:
+***Original data source:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 
