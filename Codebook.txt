@@ -54,6 +54,10 @@ std(): Standard deviation
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 ============================================================================
+The data meet the standard of tidy data:
+1. Each variable you measure should be in one column.
+2. Each different observation of that variable should be in different row.
+============================================================================
 ***Study Design:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 ***Data source:
